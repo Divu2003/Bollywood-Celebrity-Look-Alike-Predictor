@@ -6,7 +6,9 @@ Using cutting-edge Convolutional Neural Networks and the VGGFace model, I've bui
 * Project Highlights:
 
 Leveraged CNN and VGGFace for facial recognition and feature extraction.
+
 Implemented an intuitive interface for users to upload images and get real-time predictions.
+
 Overcame challenges related to data preprocessing, model training, and performance optimization.
  
 * Dataset : https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset
